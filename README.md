@@ -31,7 +31,7 @@ Je conçois des applications web modernes en utilisant des technologies **Fronte
 
 `Git` `GitHub` `Figma` `VS Code`
 
-## 📌 Projets
+## 📌Quelques Projets
 
 ### 🏭 SPGCR
 
